@@ -1,2 +1,67 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+### Keybase proof
+
+I hereby claim:
+
+  * I am simeonhalsey on github.
+  * I am simeonhalsey (https://keybase.io/simeonhalsey) on keybase.
+  * I have a public key ASCYpoP9dsNTx4qKjNCy_wpncDuoV5wshHWeKGbsPl8WmAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012098a683fd76c353c78a8a8cd0b2ff0a67703ba8579c2c84759e2866ec3e5f16980a",
+      "host": "keybase.io",
+      "kid": "012098a683fd76c353c78a8a8cd0b2ff0a67703ba8579c2c84759e2866ec3e5f16980a",
+      "uid": "463a88cfabf8bac9658ef9439756e119",
+      "username": "simeonhalsey"
+    },
+    "merkle_root": {
+      "ctime": 1568193732,
+      "hash": "00e65ea0665a36fa7ca38107bcb168e6f17e4100b8fede173dc98ad75ce5cd967acd62f85b37d0595a5b094cc7524aa598e0616bc7fecd1dc930d331ebc241f6",
+      "hash_meta": "cadf2d7e8715dd7cecfafd3cf72399906d677dc30bcf9d333f6d51b98e5247ea",
+      "seqno": 6657553
+    },
+    "service": {
+      "entropy": "Jfnp5u3U1hyHDY2iuz00pdcR",
+      "name": "github",
+      "username": "simeonhalsey"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568193746,
+  "expire_in": 504576000,
+  "prev": "574db975d941771f59a2d26b6b547e3fd6ac85645162569230710cd7cdff4b34",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCYpoP9dsNTx4qKjNCy_wpncDuoV5wshHWeKGbsPl8WmAo](https://keybase.io/simeonhalsey), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmKaD/XbDU8eKiozQsv8KZ3A7qFecLIR1nihm7D5fFpgKp3BheWxvYWTESpcCBcQgV025ddlBdx9ZotJra1R+P9ashWRRYlaSMHEM183/SzTEILDMpVO+ozrQ1MjgKSrClDWJ7zGkwYDXsPD35OXEOuj6AgHCo3NpZ8RAzD4F1tExxczefmdx9JGN4QDCp1nFcSRdWmFNQNV/dodez6eE548nZlK6U8TAKH7DDo2SuG6OCvVZ67tbnZtEBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFb3orzA9wblRFVYNFwbPVXthIELMN/1Y9JSdUcq0FDMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/simeonhalsey
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id simeonhalsey
+```
